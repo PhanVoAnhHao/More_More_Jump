@@ -23,6 +23,7 @@ Press the jump key to leap over gaps and obstacles.
     + Register/ Login Feature.
     + Show top 10 scores for selected difficult level.
     + Add enemies, checkpoints and score.
+
 | **Back To Menu Popup**|
 ## Tech stacks
 - Language / IDEA: [Visual Scripting](https://docs.unity3d.com/6000.3/Documentation/Manual/com.unity.visualscripting.html)

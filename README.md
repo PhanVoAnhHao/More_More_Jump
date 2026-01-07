@@ -1,4 +1,3 @@
-# Minesweeper For DSA
 ## Introduction
 This project is a 2D Platformer game developed using Unity and Visual Scripting (formerly Bolt)
 ## Documentation
